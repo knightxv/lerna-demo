@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "41cf39892c77eaed2d17fa48319d6e719ab1eee4",
+  "gitHead": "6a0ef2854ed4cde55ddd283c9edb4bc95e84a346",
   "dependencies": {
     "loadsh": "^0.0.4"
   }
