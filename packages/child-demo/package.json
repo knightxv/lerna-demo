@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "babel-core": "^6.26.3",
     "loadsh": "^0.0.4"
   },
   "gitHead": "192459ea07c553bfc28b822744be9b17bd4c3ffa"
