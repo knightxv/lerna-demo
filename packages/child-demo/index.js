@@ -1,2 +1,2 @@
 var a = 1;
-console.log(223886);
+console.log(286);
