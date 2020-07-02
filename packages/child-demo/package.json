@@ -1,11 +1,11 @@
 {
   "name": "child-demo",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.3",
     "loadsh": "^0.0.4"
   },
-  "gitHead": "c263f408507e3e20ea707450f4dc825085b52872"
+  "gitHead": "44481bbb85c2d30453c22c8428acdc5126bd1d8e"
 }

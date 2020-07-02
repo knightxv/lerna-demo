@@ -1,6 +1,6 @@
 {
   "name": "lerna-demo",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "c263f408507e3e20ea707450f4dc825085b52872",
+  "gitHead": "44481bbb85c2d30453c22c8428acdc5126bd1d8e",
   "dependencies": {
     "loadsh": "^0.0.4"
   }
