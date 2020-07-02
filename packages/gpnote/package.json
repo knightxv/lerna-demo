@@ -2,9 +2,8 @@
   "name": "gpnote",
   "version": "1.0.3",
   "description": "> TODO: description",
-  "author": "chenjianwei <962068006@qq.com>",
   "homepage": "https://github.com/knightxv/lerna-demo#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/gpnote.js",
   "directories": {
     "lib": "lib",
@@ -13,9 +12,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/knightxv/lerna-demo.git"
@@ -26,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/knightxv/lerna-demo/issues"
   },
-  "gitHead": "356ac7a96869cf7e4c764977ff78dbafe3ddf4cb"
+  "gitHead": "e0afededae90581a9fea146e93726f81752fa812"
 }
